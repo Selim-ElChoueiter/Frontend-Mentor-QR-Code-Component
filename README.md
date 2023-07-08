@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Project purpose
 
-Decided to start tackling more CSS challenges and designs to get better at several areas of Web Development and started at a very easy level with this project to get the feel of these challenges.
+Decided to start tackling more CSS challenges and designs to get better at several areas of Web Development. I started at a very easy level with this project to get the feel of these challenges.
 
 ### Built with
 
