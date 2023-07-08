@@ -94,7 +94,7 @@ body {
 
 /*On screen size of 375px (Mobile) */
 
-@media (max-width: 375px) {
+@media screen and (max-width: 375px) {
   .card {
     display: grid;
     grid-template-columns: 1fr;
